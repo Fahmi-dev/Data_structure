@@ -10,13 +10,10 @@ import linkedList.*;
 
 /**    
  *
- * @author HP
+ * @author Fahmi FARHAT
  */
 public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
         MaLinkedList linkedList = new MaLinkedList();
