@@ -29,6 +29,8 @@ public class Main {
         
         System.out.println();
         linkedList.supprimerIndice(2);
-        linkedList.afficher();
+        linkedList.afficher(); 
+        
+        //
     }
 }
